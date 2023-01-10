@@ -48,7 +48,7 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 7. Mercredi 19 Avril 2023
 
-	* 
+	* Pas de séminaires
 
 8. Mercredi 26 Avril 2023 
 
