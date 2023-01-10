@@ -64,15 +64,4 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 # Examen
 
-Après avoir assisté aux différents séminaires, les étudiants devront choisir un sujet **en rapport avec les séminaires présentés**. Ils devront ensuite donner une présentation sur ce sujet aux autres étudiants. **Attention, il n'est pas permis aux étudiants de présenter un sujet qu'ils ont déjà traité/présenté dans un autre cours (projet, stage, mémoire, etc).**
-
-* Cette présentation sera effectuée par groupe de **trois étudiants** pendant **15 minutes**. Quelques minutes additionnelles seront disponibles pour poser des questions.
-* Les étudiants ne pourront utiliser qu’un **maximum de 10 slides**, et chaque étudiant devra prendre la parole pour 5 minutes.
-* Les présentations auront lieu les **4 et 11** mai 2022. Ces deux dernières séances (**obligatoires pour tous les étudiants**) doivent être considérées comme des mini-séminaires donnés par les étudiants aux autres étudiants. 
-
-
-Les étudiants seront évalués par rapport à leur capacité à **analyser et présenter** de nouveaux outils ou technologies dans le domaine de l'informatique en entreprise. Plus précisément, l'évaluation sera basée sur les critères suivants :
-
-* **Le sujet traité (pertinent, émergent, en rapport avec les huit séminaires, etc.)**
-* **Les slides (polices et couleurs appropriées, pas trop encombrées, figures, lisibilité, etc.)**
-* **L'expression orale (fluidité, suscite l'intérêt, vocabulaire technique, cohérence et structure, respect du timing, etc.)**
+TBD
