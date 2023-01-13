@@ -26,7 +26,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	* 
 
 
-4. Mercredi 8 Mars 2023 (Changement de salle : Salle [Vésale 020](./map_nimy.pdf))
+4. Mercredi 8 Mars 2023 
 
 	* 
 
