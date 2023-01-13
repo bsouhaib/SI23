@@ -12,7 +12,8 @@ Les séminaires auront lieu dans la salle Mirzakhani (première étage du bâtim
 
 1. Mercredi 15 Février 2023 
 
-	* 
+	* *?*, [?](https://www.smalsresearch.be/author/berten/), [Necko Technologies](https://www.necko.tech/homepage)
+
 
 
 2. Mercredi 22 Février 2023 
