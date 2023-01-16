@@ -33,7 +33,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 5. Mercredi 15 Mars 2023
 
-	* 
+		* *?*,[]()
 
 6. Mercredi 22 Mars 2023 (Virtual seminar, Teams)
 
