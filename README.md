@@ -57,7 +57,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. 🔴**Vendredi**🔴 28 Avril 2023
 
-	* **Pas de séminaires**
+	* 
 
 9. Mercredi 3 Mai 2023
 
