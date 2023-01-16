@@ -35,7 +35,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 * **, [Alstom]()
 
-6. Mercredi 22 Mars 2023 (Virtual seminar, Teams)
+6. Mercredi 22 Mars 2023
 
 	* 
 
