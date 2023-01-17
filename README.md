@@ -28,7 +28,8 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 4. Mercredi 8 Mars 2023 
 
-	* 
+	* * *Title unavailable*, [Olivier Caelen, PhD](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
+
 
 
 5. Mercredi 15 Mars 2023
