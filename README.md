@@ -12,13 +12,13 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 1. Mercredi 15 Février 2023 
 
-	* *?*, [?](https://www.smalsresearch.be/author/berten/), [Necko Technologies](https://www.necko.tech/homepage)
+	* *Title unavailable*, [?](https://www.smalsresearch.be/author/berten/), [Necko Technologies](https://www.necko.tech/homepage)
 
 
 
 2. Mercredi 22 Février 2023 
 
-	*
+	* *Title unavailable*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be), [Euranova](https://www.linkedin.com/company/euranova/)
 
 
 3. Mercredi 1 Mars 20223
