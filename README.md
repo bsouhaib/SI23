@@ -33,7 +33,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 5. Mercredi 15 Mars 2023
 
-* **, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/), [Alstom](https://www.linkedin.com/company/alstom/)
+* *Title unavailable*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/), [Alstom](https://www.linkedin.com/company/alstom/)
 
 6. Mercredi 22 Mars 2023
 
