@@ -23,7 +23,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 3. Mercredi 1 Mars 20223
 
-	* 
+	* *Title*, [GEORGES Thibault](), [John Cockerill](https://www.linkedin.com/in/thibault-georges-1a346440/)
 
 
 4. Mercredi 8 Mars 2023 
