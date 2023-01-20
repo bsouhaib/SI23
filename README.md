@@ -42,7 +42,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. Mercredi 29 Mars 2023
 
-	*
+	* Florian
 
 
 
