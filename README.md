@@ -12,7 +12,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 1. Mercredi 15 Février 2023 
 
-	* *Title unavailable*, [?](https://www.smalsresearch.be/author/berten/), [Necko Technologies](https://www.necko.tech/homepage)
+	* *Le cloud d'AWS - Workshop Serverlesspresso*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Necko Technologies](https://www.necko.tech/homepage)
 
 
 
