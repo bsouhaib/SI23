@@ -38,7 +38,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 6. Mercredi 22 Mars 2023
 
-	* Ernst & Young ?
+	* *Title unavailable*, Ernst & Young
 
 7. Mercredi 29 Mars 2023
 
