@@ -58,7 +58,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. 🔴**Vendredi**🔴 28 Avril 2023
 
-	* *Title unavailalbe (CyberSecurity)*, [Soultana Ellinidou (PhD) ](https://www.linkedin.com/in/soultana-ellinidou/?originalSubdomain=be)
+	* *Title unavailalbe (CyberSecurity)*, [Soultana Ellinidou (PhD) ](https://www.linkedin.com/in/soultana-ellinidou/?originalSubdomain=be), [Thales](https://www.linkedin.com/company/thales/)
 
 9. Mercredi 3 Mai 2023
 
