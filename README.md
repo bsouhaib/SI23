@@ -42,7 +42,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. Mercredi 29 Mars 2023
 
-	* *Title unavailable*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
+	* *La blockchain et les crypto-actifs : aspects technologiques et cas d’usage*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
 
 
 
