@@ -38,7 +38,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 6. Mercredi 22 Mars 2023
 
-	* *Title unavailable*, Ernst & Young
+	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be)
 
 7. Mercredi 29 Mars 2023
 
