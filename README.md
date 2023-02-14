@@ -48,9 +48,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 **Vacances de printemps**
 
-7. Mercredi 19 Avril 2023
-
-	* **Pas de séminaires**
+- Mercredi 19 Avril 2023 (**Pas de séminaire**)
 
 8. Mercredi 26 Avril 2023 
 
