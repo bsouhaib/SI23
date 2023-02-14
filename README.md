@@ -58,7 +58,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. 🔴**Vendredi**🔴 28 Avril 2023
 
-	* *Cybersecurity for Industrial Control Systems*, [Soultana Ellinidou (PhD) ](https://www.linkedin.com/in/soultana-ellinidou/?originalSubdomain=be), [Mark Diamantino Caribe](https://www.linkedin.com/in/markdiamantinocaribe/?originalSubdomain=be), [Thales](https://www.linkedin.com/company/thales/)
+	* *Cybersecurity for Industrial Control Systems*, [Soultana Ellinidou (PhD) ](https://www.linkedin.com/in/soultana-ellinidou/?originalSubdomain=be) et [Mark Diamantino Caribe](https://www.linkedin.com/in/markdiamantinocaribe/?originalSubdomain=be), [Thales](https://www.linkedin.com/company/thales/)
 
 9. Mercredi 3 Mai 2023
 
