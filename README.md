@@ -18,7 +18,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 2. Mercredi 22 Février 2023 
 
-	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be), [(Short bio)](./bios), [Euranova](https://www.linkedin.com/company/euranova/)
+	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be), [(Short bio)](bios.md), [Euranova](https://www.linkedin.com/company/euranova/)
 	
 
 
