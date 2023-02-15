@@ -18,14 +18,14 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 2. Mercredi 22 Février 2023 
 
-	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be)[(Short bio)](bios.md), [Euranova](https://www.linkedin.com/company/euranova/)
+	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be) [(Short bio)](bios.md), [Euranova](https://www.linkedin.com/company/euranova/)
 	
 
 
 
 3. Mercredi 1 Mars 20223
 
-	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/)[(Short bio)](bios.md), [John Cockerill](https://johncockerill.com/en/)
+	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/) [(Short bio)](bios.md), [John Cockerill](https://johncockerill.com/en/)
 
 
 
