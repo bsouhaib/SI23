@@ -23,7 +23,8 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 3. Mercredi 1 Mars 20223
 
-	* *Title unavailable*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/), [John Cockerill](https://johncockerill.com/en/)
+	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/), [John Cockerill](https://johncockerill.com/en/)
+
 
 
 4. Mercredi 8 Mars 2023 
