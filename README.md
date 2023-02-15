@@ -40,11 +40,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be)
 
-7. Mercredi 29 Mars 2023
-
-	* *La blockchain et les crypto-actifs : aspects technologiques et cas d’usage*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
-
-
+7. Mercredi 29 Mars 2023 (**Pas de séminaire**)
 
 **Vacances de printemps**
 
@@ -52,7 +48,8 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 8. Mercredi 26 Avril 2023 
 
-	* *Title unavailalbe*, TBD.
+	* *La blockchain et les crypto-actifs : aspects technologiques et cas d’usage*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
+
 
 9. 🔴**Vendredi**🔴 28 Avril 2023
 
