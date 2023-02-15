@@ -40,26 +40,26 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be)
 
-7. Mercredi 29 Mars 2023 (**Pas de séminaire**)
+ Mercredi 29 Mars 2023 (**Pas de séminaire**)
 
 **Vacances de printemps**
 
 - Mercredi 19 Avril 2023 (**Pas de séminaire**)
 
-8. Mercredi 26 Avril 2023 
+7. Mercredi 26 Avril 2023 
 
 	* *La blockchain et les crypto-actifs : aspects technologiques et cas d’usage*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
 
 
-9. 🔴**Vendredi**🔴 28 Avril 2023
+8. 🔴**Vendredi**🔴 28 Avril 2023
 
 	* *Cybersecurity for Industrial Control Systems*, [Soultana Ellinidou (PhD) ](https://www.linkedin.com/in/soultana-ellinidou/?originalSubdomain=be) et [Mark Diamantino Caribe](https://www.linkedin.com/in/markdiamantinocaribe/?originalSubdomain=be), [Thales](https://www.linkedin.com/company/thales/)
 
-10. Mercredi 3 Mai 2023
+9. Mercredi 3 Mai 2023
 
   * Examen
 
-11. Mercredi 10 Mai 2023
+10. Mercredi 10 Mai 2023
 
   * Examen
 
