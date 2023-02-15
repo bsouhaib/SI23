@@ -31,7 +31,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 4. Mercredi 8 Mars 2023 
 
-	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
+	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be) [(Short bio)](bios.md), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
 
 
 
