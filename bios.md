@@ -11,3 +11,10 @@
 
 > **Lorenzo Bernardi** est passionné de nouvelles technologies depuis son enfance. Il a obtenu un graduat en informatiques et systèmes, ainsi que plusieurs certifications reconnues telles que OSCP.  Il est actuellement responsable de la partie Attack & Penetration Testing, Red Teaming et Incident Response pour la zone EMEIA chez EY.  Depuis plus de 10 ans, il aide les entreprises à faire face aux nouveaux challenges et menaces liées aux nouvelles technologies. 
 
+
+> **Soultana Ellinidou** is currently working as Cyber Security Manager at Thales Belgium. Her mission is to spread cyber security awareness and support customers to protect their critical assets in cyberspace. She holds a PhD Degree in Engineering Sciences and Technology from the Cybersecurity Research Center at Université Libre de Bruxelles, where she worked as a Teaching Assistant and PhD Researcher. She has a wide range of professional and research interests, with a particular passion for projects related to OT Security, Hardware Security, Network Virtualization, Blue Team Red Team CTF exercises, Cyber security Trainings, Security Risk Assessments IT/OT, and Pentesting.
+
+ 
+> **Mark Diamantino Caribe** is a highly motivated cybersecurity engineer with a passion for attacking systems. As a cybersecurity engineer with secure software background at Thales Belgium's CyberLab, Mark has extensive experience in risk analysis, red team/blue team exercises, and building cyber-secure virtualized architectures for military systems. In addition to his role, Mark also serves as a part-time cybersecurity trainer, sharing his expertise and helping to educate the next generation of cybersecurity professionals.
+
+ 
