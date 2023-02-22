@@ -14,7 +14,8 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 1. Mercredi 15 Février 2023 
 
-	* *Le cloud d'AWS - Workshop Serverlesspresso*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Necko Technologies](https://www.necko.tech/homepage) [(slides)](./slides/1_necko.pdf)
+	* *Le cloud d'AWS - Workshop Serverlesspresso*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Necko Technologies](https://www.necko.tech/homepage) 
+	* [Slides](./slides/1_necko.pdf)
 
 
 
