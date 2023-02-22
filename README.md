@@ -10,6 +10,8 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 # Liste de séminaires
 
+La biographie des intervenants est disponible [(ici)](bios.md). 
+
 1. Mercredi 15 Février 2023 
 
 	* *Le cloud d'AWS - Workshop Serverlesspresso*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Necko Technologies](https://www.necko.tech/homepage)
@@ -18,7 +20,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 2. Mercredi 22 Février 2023 
 
-	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be) [(Short bio)](bios.md), [Euranova](https://www.linkedin.com/company/euranova/)
+	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be), [Euranova](https://www.linkedin.com/company/euranova/)
 	
 
 
