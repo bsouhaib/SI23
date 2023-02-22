@@ -11,6 +11,8 @@
 
 > **Florian ERNOTTE**: Avocat en droit des affaires, Florian Ernotte conseille les entreprises et les start-ups à développer leur activité. Florian Ernotte a développé un savoir-faire dans le droit des technologies et plus particulièrement sur la technologie blockchain qu’il pratique quotidiennement. Il conseille régulièrement des start-ups et des sociétés actives dans l’industrie blockchain. Grâce à sa formation, Florian offre un service complet aux entrepreneurs qui façonnent le monde de demain. Florian Ernotte a co-fondé le site www.cryptomonnaie.be. Collaborateur scientifique à HEC Liège, Florian Ernotte intervient régulièrement comme orateur sur des thématiques liées à la blockchain et aux crypto-actifs.
 
+> **Pierre Meunier** 
+
 > **Vincent Malleron** est ingénieur en microélectronique avec un PhD en informatique. Depuis plus de 15 ans, il conçoit, développe, déploie et opère des solutions informatiques. Passionné par la technologie, il va partager ses expériences sur l’impact des technologies cloud sur les systèmes d'information en entreprise. 
 
 > **Lorenzo Bernardi** est passionné de nouvelles technologies depuis son enfance. Il a obtenu un graduat en informatiques et systèmes, ainsi que plusieurs certifications reconnues telles que OSCP.  Il est actuellement responsable de la partie Attack & Penetration Testing, Red Teaming et Incident Response pour la zone EMEIA chez EY.  Depuis plus de 10 ans, il aide les entreprises à faire face aux nouveaux challenges et menaces liées aux nouvelles technologies. 
