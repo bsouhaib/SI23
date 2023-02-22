@@ -10,7 +10,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 # Liste de séminaires
 
-La biographie des intervenants est disponible [(ici)](bios.md). 
+La biographie des intervenants est disponible [ici](bios.md). 
 
 1. Mercredi 15 Février 2023 
 
