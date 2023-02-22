@@ -27,13 +27,13 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 3. Mercredi 1 Mars 20223
 
-	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/) [(Short bio)](bios.md), [John Cockerill](https://johncockerill.com/en/)
+	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/), [John Cockerill](https://johncockerill.com/en/)
 
 
 
 4. Mercredi 8 Mars 2023 
 
-	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be) [(Short bio)](bios.md), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
+	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
 
 
 
