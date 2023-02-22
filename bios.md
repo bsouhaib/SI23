@@ -1,3 +1,7 @@
+> **Maximilien Charlier** a effectué une thèse de Doctorat dans le service de Réseau et Télécommunication de la Faculté des Sciences. La thèse portait sur l’ordonnancement de communication sans fil dans la cadre de localisation en intérieur. Il travaille comme développeur chez Necko depuis janvier 2022. Son travail consiste principalement à designer des architectures serverless (reposant essentiellement sur les services AWS Lambda, Dynamo DB, Step function, SQS) et à les implémenter pour les clients.
+
+> **Florent Collin**: Développeur Cloud chez Necko Technologies. Après avoir fini mon stage et obtenu mon Master en Sciences Informatique à l’UMons en 2022, j’ai rejoint Necko Technologies en tant que Développeur Cloud. Mon travail consiste désormais à développer des solutions technologiques aux problèmes rencontrés en interne à Necko. Mes tâches sont essentiellement de la recherche et développement utilisant des nouvelles technologies afin d’améliorer la qualité du code produit par Necko. En plus de cette partie R&D, je travaille aussi avec des clients pour développer leur architecture sur AWS en utilisant principalement les services dits Serverless.
+
 > **Sabri SKHIRI** is the CTO and R&D director of Euranova. With extensive expertise in computer science domains ranging from high scalability, cloud & elasticity, to data management, machine learning & AI, Sabri has a proven track record in directing and managing teams on one-step-ahead projects in which time to market and innovation were key factors in market differentiation and business success (pharma, banking, telecom, insurance, finance, logistics, media). Sabri started his career in research in bioinformatics, then he switched to R&D in telecom, where he quickly became research program manager at Alcatel-lucent for highly distributed network software platforms. In 2008 he co founded EURANOVA, a research company monetizing knowledge and research to create competitive advantages. As a first mission, Sabri started leading the R&D architecture department for Huawei technologies in the EU within the European Research Center. He was keeping that strategic position for more than 7 years. Afterwards, he had led data science and architecture projects in various business verticals.
 
 
@@ -16,5 +20,7 @@
 
  
 > **Mark Diamantino Caribe** is a highly motivated cybersecurity engineer with a passion for attacking systems. As a cybersecurity engineer with secure software background at Thales Belgium's CyberLab, Mark has extensive experience in risk analysis, red team/blue team exercises, and building cyber-secure virtualized architectures for military systems. In addition to his role, Mark also serves as a part-time cybersecurity trainer, sharing his expertise and helping to educate the next generation of cybersecurity professionals.
+
+
 
  
