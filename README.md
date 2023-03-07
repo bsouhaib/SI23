@@ -29,6 +29,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 3. Mercredi 1 Mars 20223
 
 	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/), [John Cockerill](https://johncockerill.com/en/)
+	* [Slides I](./slides/3_jc.pdf) [Slides II](./slides/3_jc2.pdf)
 
 
 
