@@ -51,7 +51,9 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 **Vacances de printemps**
 
-- Mercredi 19 Avril 2023 (**Pas de séminaire**)
+- Mercredi 19 Avril 2023 (🔴**Séminaire à distance (sur Teams)**🔴)
+	
+	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/) 
 
 7. Mercredi 26 Avril 2023 
 
