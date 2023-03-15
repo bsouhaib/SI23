@@ -41,7 +41,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 5. Mercredi 15 Mars 2023
 
-* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be) [Alstom](https://www.linkedin.com/company/alstom/)
+* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be, [Alstom](https://www.linkedin.com/company/alstom/)
 
 6. Mercredi 22 Mars 2023
 
