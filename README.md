@@ -33,7 +33,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 
 
-4. Mercredi 8 Mars 2023 
+4. <del> Mercredi 8 Mars 2023  </del>
 
 	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/)
 
