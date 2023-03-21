@@ -47,7 +47,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be)
 
-- Mercredi 29 Mars 2023 (🔴Séminaire à distance (sur Teams)🔴) (**TO BE CONFIRMED**)
+- Mercredi 29 Mars 2023 (🔴Séminaire à distance (sur Teams)🔴)
 	
 	* * *Machine Learning & fraud detection*, [Olivier Caelen (PhD)](https://www.linkedin.com/in/oliviercaelen/?originalSubdomain=be), [Wordline](https://www.linkedin.com/company/worldlineglobal/) 
 
