@@ -15,7 +15,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 1. Mercredi 15 Février 2023 
 
 	* *Le cloud d'AWS - Workshop Serverlesspresso*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Necko Technologies](https://www.necko.tech/homepage) 
-	* [Slides](./slides/1_necko.pdf)
+	* [[Slides (PDF)]](./slides/1_necko.pdf)
 
 
 
@@ -29,7 +29,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 3. Mercredi 1 Mars 20223
 
 	* *L’informatique dans les systèmes embarqués - Partage d’expérience*, [GEORGES Thibault](https://www.linkedin.com/in/thibault-georges-1a346440/), [John Cockerill](https://johncockerill.com/en/)
-	* [Slides I](./slides/3_jc.pdf) [Slides II](./slides/3_jc2.pdf)
+	* [[Slides I (PDF)]](./slides/3_jc.pdf) [[Slides II (PDF)]](./slides/3_jc2.pdf)
 
 
 
@@ -41,11 +41,11 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 5. Mercredi 15 Mars 2023
 
-* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be), [Alstom](https://www.linkedin.com/company/alstom/) * [Slides](./slides/4_alstom.pdf) 
+* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be), [Alstom](https://www.linkedin.com/company/alstom/) * [[Slides (PDF)]](./slides/4_alstom.pdf) 
 
 6. Mercredi 22 Mars 2023
 
-	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be) [Slides](./slides/5_ey.pdf) 
+	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be) [[Slides (PDF)]](./slides/5_ey.pdf) 
 
 - Mercredi 29 Mars 2023 (🔴Séminaire à distance (sur Teams)🔴)
 	
