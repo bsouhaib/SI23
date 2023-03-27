@@ -41,11 +41,11 @@ La biographie des intervenants est disponible [ici](bios.md).
 
 5. Mercredi 15 Mars 2023
 
-* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be), [Alstom](https://www.linkedin.com/company/alstom/)
+* *Rail et Informatique : Inséparables*, [Pierre Meunier](https://www.linkedin.com/in/pierre-meunier-0536347/),  [Michel Thauvoye](https://www.linkedin.com/in/michel-thauvoye-66ab1b16a/?originalSubdomain=be) et [Fatima Azmali](https://www.linkedin.com/in/fatima-azmali-a695475/?originalSubdomain=be), [Alstom](https://www.linkedin.com/company/alstom/) * [Slides](./slides/4_alstom.pdf) 
 
 6. Mercredi 22 Mars 2023
 
-	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be)
+	* *Adoption des technologies cloud native dans les entreprises, risques et bénéfices*, Lorenzo Bernardi et Vincent Malleron, [Ernst & Young](https://www.ey.com/en_be) [Slides](./slides/5_ey.pdf) 
 
 - Mercredi 29 Mars 2023 (🔴Séminaire à distance (sur Teams)🔴)
 	
