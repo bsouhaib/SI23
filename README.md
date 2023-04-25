@@ -6,7 +6,7 @@
 
 # Local
 
-Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du bâtiment De Vinci) ([Google Maps](https://goo.gl/maps/y83a97kLffiojN4o7), [Plan du Campus](./map_nimy.pdf)).
+Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du bâtiment De Vinci) ([Google Maps](https://goo.gl/maps/y83a97kLffiojN4o7), [Plan du Campus](https://web.umons.ac.be/fr/plan-des-campus/#mons)).
 
 # Liste de séminaires
 
