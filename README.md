@@ -58,6 +58,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 7. Mercredi 26 Avril 2023 
 
 	* *La blockchain et les crypto-actifs : aspects technologiques et cas d’usage*, [Florian ERNOTTE](https://www.linkedin.com/in/florian-ernotte/?originalSubdomain=be), [Avroy avocats](https://avroy.be/florian-ernotte/)
+	* Slides : https://www.slideshare.net/FlorianErnotte/la-blockchain-et-les-cryptoactifspptx
 
 
 8. 🔴**Vendredi**🔴 28 Avril 2023
