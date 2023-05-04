@@ -22,6 +22,7 @@ La biographie des intervenants est disponible [ici](bios.md).
 2. Mercredi 22 Février 2023 
 
 	* *Experience from the field - a decade of data science projects*, [Sabri Skhiri](https://www.linkedin.com/in/sabriskhiri/?originalSubdomain=be), [Euranova](https://www.linkedin.com/company/euranova/)
+	* [[Slides (PDF)]](./slides/2_euranova.pdf)
 	
 
 
